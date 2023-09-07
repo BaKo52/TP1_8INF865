@@ -11,5 +11,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="library" name="squareup.retrofit2.retrofit" level="project" />
+    <orderEntry type="library" name="squareup.retrofit2.converter.jackson" level="project" />
   </component>
 </module>
