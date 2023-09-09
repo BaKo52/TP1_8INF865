@@ -11,6 +11,6 @@ class User @JsonCreator constructor(
     @JsonProperty("password") val password: String
 ){
     override fun toString(): String {
-        return "User : "+id+" | name : "+name+" | email : "+email+" | password : "+password
+        return "User : $id | name : $name | email : $email | password : $password"
     }
 }
